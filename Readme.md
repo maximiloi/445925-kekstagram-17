@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Торощин](https://up.htmlacademy.ru/javascript/17/user/445925).
-* Наставник: `Неизвестно`.
+* Наставник: [Без наставника].
 
 ---
 
